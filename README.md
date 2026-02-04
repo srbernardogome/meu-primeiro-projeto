@@ -1,7 +1,24 @@
-# Meu primeiro projeto no GitHub
-Este projeto é para aprender a usar o GitHub
+# Projeto de Estudos em Segurança da Informação
 
-## O que tem aqui 
-- Anotações de estudo
-- Testes com arquivos
-- Aprendizado básico de TI e GitHub
+Este repositório foi criado para documentar meus iniciais em 
+Tecnologia da Informação e Segurança da Informação.
+
+## Objetivo 
+- Consolidar conhecimentos básicos
+- Praticar o uso do GitHub
+- Criar um porfólio de aprendizado contínuo
+
+## Estrutura do projeto 
+- README.md → Apresentação do projeto
+- anotacoes.txt → Anotações gerais
+- estudos/ → Materiais organizados por tema
+
+- ## Tecnologias e temas estudado
+- Fundamentos TI
+- Redes de Computadores
+- Segurança da Informação
+- Cibersegurança (conceitos básicos)
+
+- ##Autor
+
+  Bernardo Gomes
